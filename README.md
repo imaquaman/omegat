@@ -1,2 +1,1 @@
-# omegat
-# omegat
+처음 등록을 합니다
