@@ -1,0 +1,32 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+Down	Down	아래
+fall	Fall	가을
+earth	Earth	지구
+
+Presently	Presently	이윽고
+Presently	Presently	얼마 안 있어
+again	again	다시
+began	began	시작했습니다.
+funny	Funny	웃기다
+downward	downward	아래쪽으로
+heads	heads	앞면
+people	People	사람들
+antipathy	antipathy	반감, 혐오(opp. sympathy)
+(본능적으로) 몹시 싫은 일[것]
+air	air	공기, 대기
+외양, 외모, 풍채, 태도(bearing)
+ignorant	ignorant	무지한, 무식한, 무학[무교육]의; [P] (어떤 일을) 모르는 ((of, about, that)); [A] 무지[무식]에서 비롯되는; [구어] (사교상의 무지에서) 실례의, 무례한
+perhaps	perhaps	아마, 어쩌면, 혹시
+[정중한 부탁·제의] 가능하시다면, 혹시 가능하면
+soon	soon	곧, 이내, 잠시 후, 머지않아
+(예정보다) 일찍, 일찌감치 (=early)
+빨리, 수월하게, 얼른
+milk	milk	우유
+saucer	saucer	받침 접시
+remember	remember	생각해 내다, 상기하다
+기억하고 있다; 잊지 않고 …하다 ((for, by, against))
+eat	eat	먹다
+cat	cat	고양이
+bat	bat	박쥐
+sleepy	sleepy	졸리는, 졸음이 오는
+thump	thump	쿵

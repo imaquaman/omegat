@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-6.0.1" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>ALICE'S ADVENTURES IN WONDERLAND</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024122Z" creationid="aquaman" creationdate="20250122T024122Z">
+        <seg>[유사]이상한 나라의 앨리스의 모험</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alice was beginning to get very tired of sitting by her sister
+on the bank, and of having nothing to do:  once or twice she had
+peeped into the book her sister was reading, but it had no
+pictures or conversations in it, `and what is the use of a book,'
+thought Alice `without pictures or conversation?'</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024528Z" creationid="aquaman" creationdate="20250122T024528Z">
+        <seg>앨리스는 여동생 옆에 앉는 것에 매우 지치기 시작했습니다
+은행에서 할 일이 없다는 것에 대해: 한두 번 그녀는
+그녀의 여동생이 읽고 있는 책을 들여다보았지만, 책에는 없었습니다
+그 안의 그림이나 대화, '그리고 책의 용도는 무엇인가요?'
+앨리스는 '사진이나 대화 없이?'라고 생각했습니다</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alice's Adventures in Wonderland</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024115Z" creationid="aquaman" creationdate="20250122T024115Z">
+        <seg>이상한 나라의 앨리스의 모험</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But do cats eat bats, I wonder?'  And here Alice began to get
+rather sleepy, and went on saying to herself, in a dreamy sort of
+way, `Do cats eat bats?</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T034427Z" creationid="aquaman" creationdate="20250122T034427Z">
+        <seg>하지만 고양이가 박쥐를 먹나요?' 그리고 여기서 앨리스는 박쥐를 먹기 시작했습니다
+다소 졸린 듯 혼잣말을 계속했습니다
+'고양이는 박쥐를 먹나요?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CHAPTER I</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024234Z" creationid="aquaman" creationdate="20250122T024234Z">
+        <seg>챕터 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dinah my dear!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T033801Z" creationid="aquaman" creationdate="20250122T033801Z">
+        <seg>디나, 내 사랑!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do cats eat bats?' and sometimes, `Do
+bats eat cats?' for, you see, as she couldn't answer either
+question, it didn't much matter which way she put it.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T034647Z" creationid="aquaman" creationdate="20250122T034647Z">
+        <seg>고양이가 박쥐를 먹나요?' 그리고 때로는 '박쥐가 고양이를 먹나요?'라고 묻기도 합니다. 왜냐하면 그녀는 어느 쪽이든 대답할 수 없었기 때문에 어느 쪽이든 상관없었기 때문입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you think you could manage it?)  `And what
+an ignorant little girl she'll think me for asking!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T033211Z" creationid="aquaman" creationdate="20250122T033211Z">
+        <seg>당신은 그것을 해낼 수 있을 것 같나요?) '그리고 그녀는 내가 물었다고 생각할 정도로 무지한 어린 소녀입니다!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down the Rabbit-Hole</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024300Z" creationid="aquaman" creationdate="20250122T024300Z">
+        <seg>토끼굴 아래로</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down, down, down.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T032043Z" creationid="aquaman" creationdate="20250122T032043Z">
+        <seg>아래로, 아래로, 아래로</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Either the well was very deep, or she fell very slowly, for she
+had plenty of time as she went down to look about her and to
+wonder what was going to happen next.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024837Z" creationid="aquaman" creationdate="20250122T024837Z">
+        <seg>우물이 매우 깊었거나 매우 천천히 넘어졌기 때문입니다
+그녀는 그녀를 둘러보기 위해 내려가면서 많은 시간을 가졌습니다
+다음에 무슨 일이 일어날지 궁금합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First, she tried to look
+down and make out what she was coming to, but it was too dark to
+see anything; then she looked at the sides of the well, and
+noticed that they were filled with cupboards and book-shelves;
+here and there she saw maps and pictures hung upon pegs.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024849Z" creationid="aquaman" creationdate="20250122T024849Z">
+        <seg>먼저 그녀는
+내려가서 그녀가 무엇을 하러 오는지 알아냈지만 너무 어두워서 할 수 없었습니다
+무엇이든 봅니다; 그런 다음 그녀는 우물의 측면을 바라보았습니다
+찬장과 책 shelves로 가득 찬 것을 발견했습니다;
+여기저기서 그녀는 말뚝에 걸려 있는 지도와 그림을 보았습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How brave they'll
+all think me at home!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024932Z" creationid="aquaman" creationdate="20250122T024932Z">
+        <seg>얼마나 용감할까요
+모두 집에서 저를 생각해 주세요!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How funny it'll seem to come out among the
+people that walk with their heads downward!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T032811Z" creationid="aquaman" creationdate="20250122T032811Z">
+        <seg>얼마나 재미있을지는 다음과 같습니다
+고개를 숙이고 걷는 사람들!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, he said he was concerned with the way Mr. Choi ran the company.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T043135Z" creationid="aquaman" creationdate="20250122T043135Z">
+        <seg>그러나 그는 최 씨가 회사를 운영하는 방식에 대해 우려하고 있다고 말했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I shall be late!'  (when she thought
+it over afterwards, it occurred to her that she ought to have
+wondered at this, but at the time it all seemed quite natural);
+but when the Rabbit actually TOOK A WATCH OUT OF ITS WAISTCOAT-
+POCKET, and looked at it, and then hurried on, Alice started to
+her feet, for it flashed across her mind that she had never
+before seen a rabbit with either a waistcoat-pocket, or a watch to
+take out of it, and burning with curiosity, she ran across the
+field after it, and fortunately was just in time to see it pop
+down a large rabbit-hole under the hedge.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024720Z" creationid="aquaman" creationdate="20250122T024720Z">
+        <seg>아니 저런
+
+늦을 것 같아요!' (그녀가 생각했을 때)
+나중에 그녀는 당연히 그래야 한다는 생각이 들었습니다
+이것에 대해 궁금해했지만, 그 당시에는 모든 것이 꽤 자연스러워 보였습니다);
+하지만 토끼가 실제로 조끼에서 시계를 꺼냈을 때-
+주머니에 넣고 그것을 바라보더니 서둘러서 앨리스는
+그녀의 발이 그녀의 머릿속을 스쳐 지나갔기 때문에, 그녀는 한 번도 해본 적이 없었습니다
+조끼 주머니나 시계를 든 토끼를 보기 전에
+그것을 꺼내더니 호기심에 불타오르며 그녀는 다음을 가로질러 달려갔습니다
+운 좋게도 그 뒤를 잇는 들판, 그리고 그것이 터지는 것을 볼 수 있는 시간이 딱 맞았습니다
+울타리 아래 큰 토끼굴 아래로.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I wish you were
+down here with me!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T033933Z" creationid="aquaman" creationdate="20250122T033933Z">
+        <seg>저와 함께 여기 내려왔으면 좋겠어요!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In another moment down went Alice after it, never once
+considering how in the world she was to get out again.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024748Z" creationid="aquaman" creationdate="20250122T024748Z">
+        <seg>또 다른 순간에 앨리스는 단 한 번도 그 뒤를 쫓지 않았습니다
+세상에 그녀가 다시 나올 수 있었던 이유를 생각해보면.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let
+me see:  that would be four thousand miles down, I think--' (for,
+you see, Alice had learnt several things of this sort in her
+lessons in the schoolroom, and though this was not a VERY good
+opportunity for showing off her knowledge, as there was no one to
+listen to her, still it was good practice to say it over) `--yes,
+that's about the right distance--but then I wonder what Latitude
+or Longitude I've got to?'  (Alice had no idea what Latitude was,
+or Longitude either, but thought they were nice grand words to
+say.)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T032333Z" creationid="aquaman" creationdate="20250122T032333Z">
+        <seg>허락해요
+알겠어요: 4천 마일 아래로 내려가야 할 것 같아요--' (왜냐하면,
+보세요, 앨리스는 그녀에게서 이런 종류의 것들을 여러 가지 배웠습니다
+교실에서의 수업, 그리고 이것은 별로 좋지 않았지만
+아무도 할 수 없었기 때문에 그녀의 지식을 과시할 기회
+그녀의 말을 들어보세요, 그래도 그것에 대해 말하는 것은 좋은 연습이었습니다,
+그것은 대략 적절한 거리입니다. 하지만 그렇다면 Latitude는 무엇일까요
+아니면 경도가 필요할까요?' (앨리스는 위도가 무엇인지 전혀 몰랐습니다.),
+경도도 그렇지만, 그것들이 좋은 거창한 단어라고 생각했습니다
+말하다.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lewis Carroll</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024147Z" creationid="aquaman" creationdate="20250122T024147Z">
+        <seg>루이스 캐럴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>뉴스테스트</note>
+      <tuv lang="en-US">
+        <seg>Mr. Chang said he had “mixed feelings.” He respected and worked closely with Mr. Choi’s father, who also served as the officiant at his wedding.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T043124Z" creationid="aquaman" creationdate="20250122T043124Z">
+        <seg>장 씨는 "혼란스러운 감정"이 있었다고 말했습니다. 그는 결혼식 주례를 맡은 최 씨의 아버지를 존경하고 긴밀히 협력했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No, it'll
+never do to ask:  perhaps I shall see it written up somewhere.'</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T033355Z" creationid="aquaman" creationdate="20250122T033355Z">
+        <seg>아니요, 어디선가 쓰여 있는 것을 볼 수 있을지도 모릅니다</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh dear!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T033835Z" creationid="aquaman" creationdate="20250122T033835Z">
+        <seg>오 저런</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please, Ma'am, is this New Zealand or Australia?' (and she tried
+to curtsey as she spoke--fancy CURTSEYING as you're falling
+through the air!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T033015Z" creationid="aquaman" creationdate="20250122T033015Z">
+        <seg>제발, 여기가 뉴질랜드인가요, 아니면 호주인가요?' (그리고 그녀는 시도해 보았습니다
+그녀가 말을 할 때, 공중에서 넘어질 때, 멋지게 말을 걸었습니다!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Presently she began again.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T032601Z" creationid="aquaman" creationdate="20250122T032601Z">
+        <seg>이제 그녀는 다시 시작했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She
+took down a jar from one of the shelves as she passed; it was
+labelled `ORANGE MARMALADE', but to her great disappointment it
+was empty:  she did not like to drop the jar for fear of killing
+somebody, so managed to put it into one of the cupboards as she
+fell past it.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024903Z" creationid="aquaman" creationdate="20250122T024903Z">
+        <seg>그녀는.
+그녀가 지나갈 때 선반 중 하나에서 항아리를 꺼냈습니다; 그것은
+'오렌지 마멀레이드'라는 라벨이 붙었지만 큰 실망을 안겨주었습니다
+비어 있었습니다: 그녀는 죽을까 봐 병을 떨어뜨리는 것을 좋아하지 않았습니다
+누군가가 그것을 찬장 중 하나에 넣는 데 성공했습니다
+넘어졌습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She felt
+that she was dozing off, and had just begun to dream that she
+was walking hand in hand with Dinah, and saying to her very
+earnestly, `Now, Dinah, tell me the truth:  did you ever eat a
+bat?' when suddenly, thump!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T034716Z" creationid="aquaman" creationdate="20250122T034716Z">
+        <seg>그녀는 자신이 졸고 있다고 느꼈고, 디나와 손을 잡고 걷고 있다는 꿈을 꾸기 시작했습니다
+진심으로 '자, 디나야, 진실을 말해봐: 박쥐 먹어본 적 있어?' 갑자기 쿵!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So she was considering in her own mind (as well as she could,
+for the hot day made her feel very sleepy and stupid), whether
+the pleasure of making a daisy-chain would be worth the trouble
+of getting up and picking the daisies, when suddenly a White
+Rabbit with pink eyes ran close by her.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024556Z" creationid="aquaman" creationdate="20250122T024556Z">
+        <seg>그래서 그녀는 (가능한 한) 자신의 마음속으로 생각하고 있었습니다,
+더운 날 그녀는 매우 졸리고 어리석게 느껴졌습니다)
+데이지 체인을 만드는 즐거움은 그만한 가치가 있습니다
+일어나서 데이지를 따다가 갑자기 백인이 된 것처럼
+분홍색 눈을 가진 토끼가 그녀 옆으로 달려갔습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>THE MILLENNIUM FULCRUM EDITION 3.0</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024229Z" creationid="aquaman" creationdate="20250122T024229Z">
+        <seg>밀레니엄 펄크럼 에디션</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Antipathies, I
+think--' (she was rather glad there WAS no one listening, this
+time, as it didn't sound at all the right word) `--but I shall
+have to ask them what the name of the country is, you know.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T032856Z" creationid="aquaman" creationdate="20250122T032856Z">
+        <seg>적대자들은--' (이번에는 아무도 듣지 않아서 다행이라고 생각했어요, 전혀 올바른 단어로 들리지 않았기 때문이죠) '--하지만, 그들에게 그 나라의 이름이 무엇인지 물어봐야 할 것 같아요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The rabbit-hole went straight on like a tunnel for some way,
+and then dipped suddenly down, so suddenly that Alice had not a
+moment to think about stopping herself before she found herself
+falling down a very deep well.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024824Z" creationid="aquaman" creationdate="20250122T024824Z">
+        <seg>토끼굴은 어떤 식으로든 터널처럼 곧장 나아갔습니다,
+그리고 갑자기 아래로 내려가서 앨리스는
+그녀가 자신을 발견하기 전에 스스로 멈추는 것에 대해 생각하는 순간
+매우 깊은 우물 아래로 떨어지는 것.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are no mice in the air, I'm afraid, but
+you might catch a bat, and that's very like a mouse, you know.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T033952Z" creationid="aquaman" creationdate="20250122T033952Z">
+        <seg>공중에 쥐가 있는 것은 아니지만 박쥐를 잡을 수도 있고, 쥐와 매우 비슷합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was nothing else to do, so Alice soon
+began talking again.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T033515Z" creationid="aquaman" creationdate="20250122T033515Z">
+        <seg>다른 할 일이 없었습니다,
+그래서 앨리스는 곧 다시 말하기 시작했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There was nothing so VERY remarkable in that; nor did Alice
+think it so VERY much out of the way to hear the Rabbit say to
+itself, `Oh dear!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024613Z" creationid="aquaman" creationdate="20250122T024613Z">
+        <seg>그 점에서 그렇게 주목할 만한 것은 없었고, 앨리스도 마찬가지였습니다
+토끼가 말하는 것을 듣는 것은 너무 무리라고 생각합니다
+그 자체로, '세상에!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why, I wouldn't say anything about it,
+even if I fell off the top of the house!' (Which was very likely
+true.)</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T025004Z" creationid="aquaman" creationdate="20250122T025004Z">
+        <seg>왜, 저는 그것에 대해 아무 말도 하지 않을 겁니다,
+집 꼭대기에서 떨어져도!' (그럴 가능성이 매우 높았습니다
+사실입니다.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Would the fall NEVER come to an end!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T032104Z" creationid="aquaman" creationdate="20250122T032104Z">
+        <seg>가을은 결코 끝나지 않을 것입니다!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Dinah'll miss me very much to-night, I
+should think!'  (Dinah was the cat.)  `I hope they'll remember
+her saucer of milk at tea-time.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T033749Z" creationid="aquaman" creationdate="20250122T033749Z">
+        <seg>'디나는 오늘 밤 나를 매우 그리워할 것입니다,
+생각해야겠어요!" (디나는 고양이였어요.) "티타임에 우유 접시를 기억해 주셨으면 좋겠어요.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`I
+wonder how many miles I've fallen by this time?' she said aloud.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T032241Z" creationid="aquaman" creationdate="20250122T032241Z">
+        <seg>"이쯤이면 몇 마일이나 떨어졌는지 궁금하네요." 그녀가 큰 소리로 말했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`I must be getting somewhere near the centre of the earth.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T032312Z" creationid="aquaman" creationdate="20250122T032312Z">
+        <seg>
+'지구 중심부 근처에 도착하고 있는 것 같습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`I wonder if I shall fall right
+THROUGH the earth!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T032615Z" creationid="aquaman" creationdate="20250122T032615Z">
+        <seg>'내가 제대로 떨어질지 궁금합니다
+지구를 통해!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>`Well!' thought Alice to herself, `after such a fall as this, I
+shall think nothing of tumbling down stairs!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T024917Z" creationid="aquaman" creationdate="20250122T024917Z">
+        <seg>"글쎄요!" 앨리스는 속으로 생각했습니다. "이렇게 쓰러진 후에, 저는
+계단에서 굴러 떨어질 생각은 하지 않겠습니다!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>down she came upon a heap of
+sticks and dry leaves, and the fall was over.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T034814Z" creationid="aquaman" creationdate="20250122T034814Z">
+        <seg>그녀는 나뭇가지와 마른 나뭇잎 더미를 발견했고, 가을은 끝났습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>thump!</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T034738Z" creationid="aquaman" creationdate="20250122T034738Z">
+        <seg>쿵</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“In Korea, it’s common practice for people to own 15 to 20 percent of a company and run it as if it is their individual asset,” he said.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T043150Z" creationid="aquaman" creationdate="20250122T043150Z">
+        <seg>"한국에서는 사람들이 회사의 15%에서 20%를 소유하고 마치 개인 자산인 것처럼 운영하는 것이 일반적입니다."라고 그는 말했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“The moment you think that way, a company is destined for failure.”</seg>
+      </tuv>
+      <tuv lang="ko" changeid="aquaman" changedate="20250122T043203Z" creationid="aquaman" creationdate="20250122T043203Z">
+        <seg>"그렇게 생각하는 순간, 회사는 실패할 운명입니다."</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

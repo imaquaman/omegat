@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-6.0.1" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, he said he was concerned with the way Mr. Choi ran the company.</seg>
+      </tuv>
+      <tuv xml:lang="ko" changeid="aquaman" changedate="20250122T043135Z" creationid="aquaman" creationdate="20250122T043135Z">
+        <seg>그러나 그는 최 씨가 회사를 운영하는 방식에 대해 우려하고 있다고 말했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mr. Chang said he had “mixed feelings.” He respected and worked closely with Mr. Choi’s father, who also served as the officiant at his wedding.</seg>
+      </tuv>
+      <tuv xml:lang="ko" changeid="aquaman" changedate="20250122T043124Z" creationid="aquaman" creationdate="20250122T043124Z">
+        <seg>장 씨는 "혼란스러운 감정"이 있었다고 말했습니다. 그는 결혼식 주례를 맡은 최 씨의 아버지를 존경하고 긴밀히 협력했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>“In Korea, it’s common practice for people to own 15 to 20 percent of a company and run it as if it is their individual asset,” he said.</seg>
+      </tuv>
+      <tuv xml:lang="ko" changeid="aquaman" changedate="20250122T043150Z" creationid="aquaman" creationdate="20250122T043150Z">
+        <seg>"한국에서는 사람들이 회사의 15%에서 20%를 소유하고 마치 개인 자산인 것처럼 운영하는 것이 일반적입니다."라고 그는 말했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>“The moment you think that way, a company is destined for failure.”</seg>
+      </tuv>
+      <tuv xml:lang="ko" changeid="aquaman" changedate="20250122T043203Z" creationid="aquaman" creationdate="20250122T043203Z">
+        <seg>"그렇게 생각하는 순간, 회사는 실패할 운명입니다."</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
